@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['btdrvbluetoothhhreporttype_5ffeature',['BtdrvBluetoothHhReportType_Feature',['../btdrv__types_8h.html#afaffca80cf0869a8c8c1a2bb4bb82323adf0048406f4da7c7e0b0bdb2a550243d',1,'btdrv_types.h']]],
+  ['btdrvbluetoothhhreporttype_5finput',['BtdrvBluetoothHhReportType_Input',['../btdrv__types_8h.html#afaffca80cf0869a8c8c1a2bb4bb82323a426cf55e1e5282721c6dd9adbe7fdac5',1,'btdrv_types.h']]],
+  ['btdrvbluetoothhhreporttype_5fother',['BtdrvBluetoothHhReportType_Other',['../btdrv__types_8h.html#afaffca80cf0869a8c8c1a2bb4bb82323a36c5945e6ad0fd2648c970167215a7ec',1,'btdrv_types.h']]],
+  ['btdrvbluetoothhhreporttype_5foutput',['BtdrvBluetoothHhReportType_Output',['../btdrv__types_8h.html#afaffca80cf0869a8c8c1a2bb4bb82323a9bdaaae14aaf264737aea89763741f3e',1,'btdrv_types.h']]],
+  ['btdrvbluetoothpropertytype_5faddress',['BtdrvBluetoothPropertyType_Address',['../btdrv__types_8h.html#af2341faa271fb09ab260ed8769d051fea1292b97d0a570220d741405c772b8212',1,'btdrv_types.h']]],
+  ['btdrvbluetoothpropertytype_5fname',['BtdrvBluetoothPropertyType_Name',['../btdrv__types_8h.html#af2341faa271fb09ab260ed8769d051fea686a88048bb91a9083c73ac7887bb181',1,'btdrv_types.h']]],
+  ['btdrvbluetoothpropertytype_5funknown3',['BtdrvBluetoothPropertyType_Unknown3',['../btdrv__types_8h.html#af2341faa271fb09ab260ed8769d051feaf59eeeecf4ca61649577d50c2707e8de',1,'btdrv_types.h']]],
+  ['btdrvbluetoothpropertytype_5funknown5',['BtdrvBluetoothPropertyType_Unknown5',['../btdrv__types_8h.html#af2341faa271fb09ab260ed8769d051fea5acf8195cfe74f3054b7f58eac163990',1,'btdrv_types.h']]],
+  ['btdrvbluetoothpropertytype_5funknown6',['BtdrvBluetoothPropertyType_Unknown6',['../btdrv__types_8h.html#af2341faa271fb09ab260ed8769d051fea0d88b39710fa412bdd47f1d276c792c3',1,'btdrv_types.h']]],
+  ['btdrvfatalreason_5funknown1',['BtdrvFatalReason_Unknown1',['../btdrv__types_8h.html#aa330b4b156348a9fdeda44ec41d51aebac1dc307873f22abc2bdc63f04d5ad8a2',1,'btdrv_types.h']]],
+  ['btdrvfatalreason_5funknown2',['BtdrvFatalReason_Unknown2',['../btdrv__types_8h.html#aa330b4b156348a9fdeda44ec41d51aebaf36b568cf5e431d11207337e91db668a',1,'btdrv_types.h']]],
+  ['btdrvfatalreason_5funknown3',['BtdrvFatalReason_Unknown3',['../btdrv__types_8h.html#aa330b4b156348a9fdeda44ec41d51aeba3e223c164554fe20556a9e5594d2aa4e',1,'btdrv_types.h']]],
+  ['btdrvhideventtype_5funknown0',['BtdrvHidEventType_Unknown0',['../btdrv__types_8h.html#aad6b062e611d1a764a1c5f39b1173d67a75bf3652817ecfd12091602db1b9091b',1,'btdrv_types.h']]],
+  ['btdrvhideventtype_5funknown4',['BtdrvHidEventType_Unknown4',['../btdrv__types_8h.html#aad6b062e611d1a764a1c5f39b1173d67a294908102f594b49057ca5196a331d39',1,'btdrv_types.h']]],
+  ['btdrvhideventtype_5funknown7',['BtdrvHidEventType_Unknown7',['../btdrv__types_8h.html#aad6b062e611d1a764a1c5f39b1173d67ae59d832218bacffb9a48c373fdb87240',1,'btdrv_types.h']]],
+  ['btdrvhideventtype_5funknown8',['BtdrvHidEventType_Unknown8',['../btdrv__types_8h.html#aad6b062e611d1a764a1c5f39b1173d67af0e2269bb8797cab3e0b911a70361b1f',1,'btdrv_types.h']]],
+  ['btdrvhideventtype_5funknown9',['BtdrvHidEventType_Unknown9',['../btdrv__types_8h.html#aad6b062e611d1a764a1c5f39b1173d67ad31cba2beca5b24bd5611a3ca7674d39',1,'btdrv_types.h']]]
+];
